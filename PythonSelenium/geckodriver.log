@@ -1,0 +1,39 @@
+1615277210465	geckodriver	INFO	Listening on 127.0.0.1:49532
+1615277213512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Haroon\\AppData\\Local\\Temp\\rust_mozprofileZDHJQf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615277219645	Marionette	INFO	Listening on port 49540
+1615277220688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615277225183	Marionette	INFO	Stopped listening on port 49540
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615277234572	geckodriver	INFO	Listening on 127.0.0.1:49592
+1615277237658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Haroon\\AppData\\Local\\Temp\\rust_mozprofilekZ5SJq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615277243156	Marionette	INFO	Listening on port 49600
+1615277243523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615277247901	geckodriver	INFO	Listening on 127.0.0.1:49635
+1615277250955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Haroon\\AppData\\Local\\Temp\\rust_mozprofilex4prCh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615277256201	Marionette	INFO	Listening on port 49643
+1615277256300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7260, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615277275949	Marionette	INFO	Stopped listening on port 49643
+1615277286863	geckodriver	INFO	Listening on 127.0.0.1:49710
+1615277289911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Haroon\\AppData\\Local\\Temp\\rust_mozprofileSyYyMB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615277295452	Marionette	INFO	Listening on port 49718
+1615277295769	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615277301331	Marionette	INFO	Stopped listening on port 49718
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615279167703	geckodriver	INFO	Listening on 127.0.0.1:50075
+1615279170805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Haroon\\AppData\\Local\\Temp\\rust_mozprofileyvlCxZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615279176694	Marionette	INFO	Listening on port 50083
+1615279177152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615279180692	Marionette	INFO	Stopped listening on port 50083
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
